@@ -107,6 +107,8 @@ Feel free to share other resources in the comments, I can’t wait to see more!
 <em>the international journal of computer game research</em>
 <strong><a href="http://www.eludamos.org/index.php/eludamos">Eludamos</a></strong>
 <em>Journal for Computer Game Culture</em>
+<strong><a href="http://press.etc.cmu.edu/wellplayed">Well Played Journal</a></strong>
+<em>a journal on video games, value and meaning</em>
 <a name="GraphicDesign"></a>
 
 <hr />
