@@ -1,0 +1,221 @@
+At the start of my game design study I had a very difficult time finding good resources to study/learn/be inspired by. Together with my fellow students, we searched all over the internet and book stores. I stored many of the online resources in my bookmarks and finally decided to arrange them for others to discover more easily. Some of these links will lead you to repositories of much greater value than this post. Others may be small troves of information that were found by chance through a stray mention.
+
+I hope others may be inspired by these greats who threaded ground so that we don’t have to. Because you don't know all there is to know yet.
+Feel free to share other resources in the comments, I can’t wait to see more!
+<!--more-->
+
+<strong>"Instructions":</strong>
+1) I'm not claiming authorship/credit by linking things here!!! I respect all the great people I'm linking to a lot for sharing their knowledge and I only hope help them in their goals by having yet another route for people to discover their lessons.
+2) Most of these links are in no particular order. They're in the order that I remembered them in.
+3) So just take a quick peek at all the links in your field of interest. At one point I tried adding descriptions, but this quickly became unwieldy and the individual authors/sites I link to always do a much better job of summarizing their points.
+<a name="YoutubePlaylists"></a>
+
+<hr />
+
+<h3>Youtube Playlists</h3>
+<strong><a href="https://www.youtube.com/playlist?list=PL2pgszMfQj2avftclBCdHN25dHROMWei4">Game Design Mastermix - Youtube</a></strong>
+<em>All of the interesting Youtube (channels) I came across, I put in here. If you feel stupid, tank up on smarts here.</em>
+
+<strong><a href="https://www.youtube.com/playlist?list=PL2pgszMfQj2bV_KlEoYn_gxwvCSkSsMJh">Art Fundamentals Mixpalette - Youtube</a></strong>
+<em>A more structured list that builds up some of the core principles all game artists should know. If you want to be a game programmer (not engine side), you should go through this as well. With help from @drawingmoose</em>
+
+<strong><a href="https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My">Math for Game Developers - Youtube</a></strong>
+<em>If you're a programmer in this study, suck it up and get your learning on. Up till video ~#36 is all stuff you should be using on a daily basis. And it's not that complicated and the videos explain it well with nice drawings to explain every concept.</em>
+
+<strong><a href="https://www.youtube.com/playlist?list=PLKX4PPq5cjmnjx1sxTTLo9PBkHXgYvwHN">Art Portfolio Preparation</a></strong>
+<em>By @drawingmoose. A collection of videos that summarize some important views to consider for building your art portfolio.</em>
+<a name="GeneralResources"></a>
+
+<hr />
+
+<h3>General Resources</h3>
+<strong><a href="http://gamasutra.com/">Gamasutra</a></strong>
+<em>Keep up to date on recent events in the game industry and become inspired by featured blog posts on all possible subjects. Browse the archive for a wealth of information.</em>
+<strong><a href="http://gdcvault.com/">Game Developers Conference Vault</a></strong>
+<em>For years, game developers have gathered at the GDC to talk and give talks. Many high quality talks, micro talks and post mortems are available, increasingly for free.</em>
+<strong><a href="http://www.gamesareforeveryone.com/">Games Are For Everyone</a></strong>
+<em>A super tight website with resources intended to get you started making games.</em>
+<strong><a href="https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ/videos">GDC Vault Youtube</a></strong>
+<em>The YouTube page account for GDC. Recently the organisation started uploading featured talks here.</em>
+<strong><a href="http://www.pixelprospector.com/">PixelProspector</a></strong>
+<em>Extra useful for beginners, this well categorized selection features guides and resources for all areas of development.</em>
+<strong><a href="http://www.oxforddictionaries.com/">Oxford Dictionary</a></strong>
+<em>If you just can't settle on spelling/pronunciation.</em>
+<strong><a href="http://forums.tigsource.com/">TIGSource Forums</a></strong>
+<em>A community of mostly independent and hobbyist developpers. A great place to exchange ideas and/or feedback.</em>
+<strong><a href="https://vimeo.com/user6998742/videos">NYU Game Center Vimeo</a></strong>
+<em>The NYU Game Center has uploaded numerous guest lectures for the world to see here.</em>
+<a name="GeneralArticles"></a>
+
+<hr />
+
+<h3>General Articles</h3>
+<strong><a href="http://www.lizengland.com/blog/2014/04/the-door-problem/">The Door Problem</a></strong>
+<strong><a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">What is Code? (super-regular human language)</a></strong>
+<strong><a href="https://medium.com/@noahbradley/how-i-became-an-artist-4390c6b6656c">Noah Bradley - How I became an artist.</a></strong>
+<strong><a href="http://ncase.me/polygons/">Parable of the Polygons</a></strong>
+<a name="GeneralBlogs"></a>
+
+<hr />
+
+<h3>Development Blogs</h3>
+<strong><a href="http://joostdevblog.blogspot.nl/">Joost's Dev Blog (Ronimo Games)</a></strong>
+<strong><a href="http://frictionalgames.blogspot.nl/2013/05/nailing-down-terminology.html">In the Games of Madness (Frictional Games Blog)</a></strong>
+<strong><a href="http://the-witness.net/news/">The Witness Dev Blog</a></strong>
+<strong><a href="http://www.valvesoftware.com/company/publications.html">Valve Publications (papers/presentations from Valve)</a></strong>
+<strong><a href="http://blog.chopsticksgames.com/">Chopsticks Games Blog</a></strong>
+<strong><a href="http://www.gamedevblog.com/">Happion Laboratories</a></strong>
+<a name="Podcasts"></a>
+
+<hr />
+
+<h3>Podcasts</h3>
+<strong><a href="https://www.idlethumbs.net/3ma/">Three Moves Ahead</a></strong>
+<strong><a href="https://www.idlethumbs.net/designernotes">Designer Notes</a></strong>
+<strong><a href="https://www.idlethumbs.net/tonecontrol">Tone Control</a></strong>
+<strong><a href="http://thegamedesignroundtable.com/">The Game Design Roundtable</a></strong>
+<strong><a href="http://synstudio.ca/resources/podcasts/">SynStudio Podcast</a></strong>
+<a name="DesignBlogs"></a>
+
+<hr />
+
+<h3>Design Blogs</h3>
+<strong><a href="http://www.designersnotebook.com/Design_Resources/No_Twinkie_Database/no_twinkie_database.htm">The No Twinkie Database</a></strong>
+<strong><a href="http://gamedesignadvance.com/">Game Design Advance</a></strong>
+<strong><a href="http://designreboot.blogspot.nl/">Gausswerks: Design Reboot</a></strong>
+<strong><a href="http://abbeygames.com/blog/2012/08/28/theme_is_everything/">Abbey Games Blog</a></strong>
+<strong><a href="http://www.lizengland.com/blog/">Liz England</a></strong>
+<strong><a href="http://www.lostgarden.com/">Lost Garden</a></strong>
+<strong><a href="https://filmcrithulk.wordpress.com/2011/07/07/hulk-presents-the-myth-of-3-act-structure/">Film Crit Hulk</a></strong>
+<strong><a href="http://blog.tewaters.com/2013/01/on-narrative-structure-kishotenketsu.html">Serpent Scribbles</a></strong>
+<strong><a href="http://narrativefirst.com/articles/not-everything-is-a-heros-journey">Narrative First</a></strong>
+<strong><a href="http://dramatica.com/articles/how-and-why-dramatica-is-different-from-six-other-story-paradigms">Dramatica</a></strong>
+<strong><a href="http://www.worldofleveldesign.com/categories/cat_level_design_tutorials_tips.php">World of Level Design</a></strong>
+<strong><a href="http://www.sirlin.net/">Sirlin on Game Design</a></strong>
+<strong><a href="http://stilleatingoranges.tumblr.com/post/25153960313/the-significance-of-plot-without-conflict">still eating oranges</a></strong>
+<strong><a href="http://nothingsacredgames.com/board-game-design-basics-its-about-time-2/">Nothing Sacred</a></strong>
+<strong><a href="http://makegames.tumblr.com/post/18591854565/how-to-tell-when-you-gave-artists-too-much-control">Make Games</a></strong>
+<strong><a href="http://www.mattiebrice.com/">Mattie Brice</a></strong>
+<strong><a href="http://ludism.org/">The Center for Ludic Synergy</a></strong>
+<strong><a href="http://www.whatgamesare.com/">What Games Are</a></strong>
+<strong><a href="http://auntiepixelante.com/?cat=6">Auntie Pixelante</a></strong>
+<strong><a href="http://www.keithburgun.net/">Keith Burgun</a></strong>
+<strong><a href="https://gamebalanceconcepts.wordpress.com/2010/06/17/hello-world/">Game Balance Concepts</a></strong>
+<strong><a href="http://www.gamesprecipice.com/">Games Precipice</a></strong>
+<strong><a href="http://www.justingary.com/">Just Gary Design Journal</a></strong>
+<strong><a href="http://gamestudies.org/">Game Studies</a></strong>
+<em>the international journal of computer game research</em>
+<strong><a href="http://www.eludamos.org/index.php/eludamos">Eludamos</a></strong>
+<em>Journal for Computer Game Culture</em>
+<a name="GraphicDesign"></a>
+
+<hr />
+
+<h3>Graphic Design</h3>
+<strong><a href="https://www.artstation.com/">ArtStation</a></strong>
+<strong><a href="https://www.youtube.com/user/levelupsessions/videos">LevelUp</a></strong>
+<strong><a href="https://youtu.be/HA82H7-XDaQ?list=PLvWBwEdCvSOX1QqYwwwjcmfJAmcs2PfnJ">Art Cafe</a></strong>
+<a name="GameArt"></a>
+
+<hr />
+
+<h3>Game Art</h3>
+<strong><a href="http://artbypapercut.com/">VERTEX books</a></strong>
+<em>A collaberative publication with articles supplied by numerous working artists. They discuss both relevant pipelines/workflows as well as their processes.</em>
+<strong><a href="http://livlily.blogspot.ca/2010/11/model-sheets-production-drawings.html">PRODUCTION ART - Model Sheets, Production Drawings &amp; Others</a></strong>
+<strong><a href="http://simonschreibt.de/game-art-tricks/">Game Art Tricks</a></strong>
+<strong><a href="http://www.polycount.com/forum/showthread.php?t=104415">Zelda: Wind Waker graphic tricks</a></strong>
+<strong><a href="http://www.adriancourreges.com/blog/2015/03/10/deus-ex-human-revolution-graphics-study/">Deus Ex: Human Revolution Graphics Study</a></strong>
+<strong><a href="http://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study/">Supreme Commander - Graphics Study</a></strong>
+<strong><a href="http://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study/">Supreme Commander - Graphics Study</a></strong>
+<strong><a href="https://geofflester.wordpress.com/">Geoff Lester's Blog - Technical Art Director</a></strong>
+
+<a name="ProgrammingResources"></a>
+
+<hr />
+
+<h3>Programming Resources</h3>
+<strong><a href="http://stackoverflow.com/">Stack Overflow</a></strong>
+<strong><a href="https://github.com/Jam3/math-as-code">math-as-code</a></strong>
+<em>Reference for translating mathematical notations to code.</em>
+<strong><a href="https://www.google.com/about/careers/students/guide-to-technical-development.html">Google's Student Guide to Technical Development</a></strong>
+<strong><a href="https://www.youtube.com/user/handmadeheroarchive/playlists?flow=grid&amp;sort=da&amp;view=1">Handmade Hero</a></strong>
+<strong><a href="http://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/">Must-See Tech Talks for Every Programmer</a></strong>
+<strong><a href="http://blog.hackership.org/2015/05/Read-Code.html">Read Great Code</a></strong>
+<strong><a href="http://carlcheo.com/compsci">40 Key Computer Science Concepts Explained in Layman's Terms</a></strong>
+<strong><a href="http://bost.ocks.org/mike/algorithms/">Visualizing Algorithms</a></strong>
+<strong><a href="http://www.scratchapixel.com/old/lessons/">Scratch a Pixel</a></strong>
+<strong><a href="http://blog.crowdint.com/2014/02/21/6-tools-to-keep-your-coder-mind-sharp.html?utm_source=blogpost&amp;utm_medium=reddit&amp;utm_campaign=6tools-0221">6 tools to keep your coder mind sharp</a></strong>
+<strong><a href="http://simonschreibt.de/gat/renderhell/">Render Hell 2.0 (comprehensive eBook style articles on the rendering pipeline)</a></strong>
+<strong><a href="http://bitsquid.blogspot.nl/">Bitsquid: Development Blog</a></strong>
+<strong><a href="http://purplepwny.com/blog/object-oriented_programming_sucks.html">Purplpwny Blog</a></strong>
+<strong><a href="http://pomax.github.io/bezierinfo/">A Primer on Bézier Curves</a></strong>
+<strong><a href="http://ncase.me/simulating/">Simulating the world (in emoji)</a></strong>
+<em>Cellular automata explained and visualised with emoji.</em>
+<a name="CodingBlogs"></a>
+
+<hr />
+
+<h3>Coding Blogs</h3>
+<strong><a href="http://www-cs-students.stanford.edu/~amitp/gameprog.html">Amit's Game Programming Information</a></strong>
+<strong><a href="http://gameprogrammingpatterns.com/contents.html">Game Programming Patterns eBook</a></strong>
+<strong><a href="http://blog.codinghorror.com/">Coding Horror</a></strong>
+<strong><a href="http://www.codeofhonor.com/blog/">Code of Honor</a></strong>
+<strong><a href="http://catlikecoding.com/unity/tutorials/">Catlike Coding</a></strong>
+<strong><a href="http://pcgbook.com/">Procedural Content Generation in Games</a></strong>
+<strong><a href="http://techblog.netflix.com/2011/07/netflix-simian-army.html">Netflix Tech Blog</a></strong>
+<strong><a href="http://dukope.tumblr.com/">Papers, Please devblog</a></strong>
+<strong><a href="http://www.gamasutra.com/blogs/TommyRefenes/20130107/184432/How_do_I_get_started_programming_games.php">Tommy Refenes on starting programming</a></strong>
+<strong><a href="https://drboolean.gitbooks.io/mostly-adequate-guide/content/index.html">Professor Frisby's Mostly Adequate Guide to Functional Programming</a></strong>
+<strong><a href="http://journal.stuffwithstuff.com/2014/07/05/dropping-loot/">Stuff With Stuff</a></strong>
+<strong><a href="https://thelandofbards.com/">Hans in the Land of Bards</a></strong>
+<strong><a href="http://blog.rabidgremlin.com/2014/12/09/procedural-content-generation-l-systems/">Rabidgremlin's Soapbox</a></strong>
+<strong><a href="http://ithare.com/how-many-mistakes-can-fit-into-100-lines-of-book-tutorial-code-part-1/">IT Hare</a></strong>
+<strong><a href="http://www.gametutorials.com/">Game Tutorials</a></strong>
+<strong><a href="http://mollyrocket.com/casey/index.html">Casey's Blog</a></strong>
+<strong><a href="http://www.mavorsrants.com/2012/04/lets-talk-procedural-content.html">Mavor's Rants</a></strong>
+<strong><a href="http://allenchou.net/blog/">Allen Chou blog</a></strong>
+<strong><a href="http://blog.selfshadow.com/">Self Shadow (Lot's of rendering articles)</a></strong>
+<strong><a href="http://gafferongames.com/">Gaffer on Games</a></strong>
+<a name="GreatSubreddits"></a>
+
+<hr />
+
+<h3>Great Subreddits</h3>
+<strong><a title="gamedev.reddit.com" href="gamedev.reddit.com" target="_blank">gamedev.reddit.com</a></strong>
+<strong><a title="gamedesign.reddit.com" href="gamedesign.reddit.com" target="_blank">gamedesign.reddit.com</a></strong>
+<strong><a title="gamedesign.reddit.com" href="gamedesign.reddit.com" target="_blank">userexperience.reddit.com</a></strong>
+<strong><a title="gamedesign.reddit.com" href="gamedesign.reddit.com" target="_blank">devblogs.reddit.com</a></strong>
+<strong><a href="https://www.reddit.com/r/TheMakingOfGames">TheMakingOfGames.reddit.com</a></strong>
+<a name="PaidResources"></a>
+
+<hr />
+
+<h3>Paid Resources</h3>
+<strong><a href="http://www.lynda.com/default.aspx">Lynda.com (lotsof studies have made deals with this site)</a></strong>
+<strong><a href="http://www.digitaltutors.com/">DigitalTutors.com (same as Lynda)</a></strong>
+<a name="Tools"></a>
+
+<hr />
+
+<h3>Tools:</h3>
+<strong><a href="https://krita.org/">Krita (drawing/painting/image editing), opens .psd</a></strong>
+<strong><a href="http://www.blender.org/">Blender (3D, UV, compositing)</a></strong>
+<strong><a href="https://atom.io/">Atom (Code editor, many free extensions)</a></strong>
+<strong><a href="https://www.madewithmischief.com/">Mischief (infinite canvas/zoom painting)</a></strong>
+<strong><a href="http://kruelgames.com/tools/kuadro/">Kuadro</a></strong>
+<em>Free tool for arranging reference images in separate windows. You can save your layout for later use.</em>
+<strong><a href="http://viziblr.com/news/2011/8/13/fix-my-pen-makes-your-wacom-tablet-just-work-on-windows-7.html">Fix my Pen</a></strong>
+<em>On Windows 7 and 8, some default settings may get in your way of using your drawing tablet. This utility will disable everything in one go, so your pen will just work.</em>
+
+[caption id="" align="alignnone" width="640"]<img alt="http://abbeygames.com/wp-content/uploads/2012/02/game-designer.png" src="http://abbeygames.com/wp-content/uploads/2012/02/game-designer.png" width="640" height="400" /> Image by Adriaan Jansen - Abbey Games[/caption]
+
+Thank Yous:
+<strong><a href="https://twitter.com/VRimeika">Valentinas @VRimeika</a></strong> -  <strong><a href="https://twitter.com/ntVadinci">Robin @ntVadinci</a></strong> - <strong><a href="https://twitter.com/drawingmoose">Gerben @drawingmoose</a></strong> - <strong><a href="https://twitter.com/ilgniPtoN">Weikie @ilgniPtoN</a></strong>
+
+Phieuw, as I've added more and more to this list I slowly realized how much latent stuff I have in my bookmarks. As time goes on, I'll continue to dive back there and scoop out more links to share here.
+
+Please tell me if you're interested or found this stuff useful.
+
+Greetings, Steff Kempink
+<strong><a href="https://twitter.com/mswf">@mswf</a></strong>
